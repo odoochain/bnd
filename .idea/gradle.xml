@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../tools/scoop/apps/gradle/current" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/aQute.libg" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.annotation" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.ant" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.embedded-repo" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.exporters" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.javagen" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.maven" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.reporter" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.runtime" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.test" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.testextension" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.transform" />
+            <option value="$PROJECT_DIR$/biz.aQute.bnd.util" />
+            <option value="$PROJECT_DIR$/biz.aQute.bndall.tests" />
+            <option value="$PROJECT_DIR$/biz.aQute.bndlib" />
+            <option value="$PROJECT_DIR$/biz.aQute.bndlib.comm.tests" />
+            <option value="$PROJECT_DIR$/biz.aQute.bndlib.tests" />
+            <option value="$PROJECT_DIR$/biz.aQute.http.testservers" />
+            <option value="$PROJECT_DIR$/biz.aQute.junit" />
+            <option value="$PROJECT_DIR$/biz.aQute.launcher" />
+            <option value="$PROJECT_DIR$/biz.aQute.launchpad" />
+            <option value="$PROJECT_DIR$/biz.aQute.launchpad.tests" />
+            <option value="$PROJECT_DIR$/biz.aQute.remote" />
+            <option value="$PROJECT_DIR$/biz.aQute.repository" />
+            <option value="$PROJECT_DIR$/biz.aQute.resolve" />
+            <option value="$PROJECT_DIR$/biz.aQute.tester" />
+            <option value="$PROJECT_DIR$/biz.aQute.tester.junit-platform" />
+            <option value="$PROJECT_DIR$/biz.aQute.tester.test" />
+            <option value="$PROJECT_DIR$/bndtools.api" />
+            <option value="$PROJECT_DIR$/bndtools.builder" />
+            <option value="$PROJECT_DIR$/bndtools.core" />
+            <option value="$PROJECT_DIR$/bndtools.core.services" />
+            <option value="$PROJECT_DIR$/bndtools.core.test" />
+            <option value="$PROJECT_DIR$/bndtools.jareditor" />
+            <option value="$PROJECT_DIR$/bndtools.m2e" />
+            <option value="$PROJECT_DIR$/bndtools.pde" />
+            <option value="$PROJECT_DIR$/bndtools.release" />
+            <option value="$PROJECT_DIR$/bndtools.utils" />
+            <option value="$PROJECT_DIR$/cnf" />
+            <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/demo-fragment" />
+            <option value="$PROJECT_DIR$/dist" />
+            <option value="$PROJECT_DIR$/gradle-plugins" />
+            <option value="$PROJECT_DIR$/gradle-plugins/biz.aQute.bnd.gradle" />
+            <option value="$PROJECT_DIR$/org.bndtools.applaunch" />
+            <option value="$PROJECT_DIR$/org.bndtools.headless.build.manager" />
+            <option value="$PROJECT_DIR$/org.bndtools.headless.build.plugin.ant" />
+            <option value="$PROJECT_DIR$/org.bndtools.headless.build.plugin.gradle" />
+            <option value="$PROJECT_DIR$/org.bndtools.launch" />
+            <option value="$PROJECT_DIR$/org.bndtools.p2" />
+            <option value="$PROJECT_DIR$/org.bndtools.remoteinstall" />
+            <option value="$PROJECT_DIR$/org.bndtools.templates.osgi" />
+            <option value="$PROJECT_DIR$/org.bndtools.templates.template" />
+            <option value="$PROJECT_DIR$/org.bndtools.templating" />
+            <option value="$PROJECT_DIR$/org.bndtools.templating.gitrepo" />
+            <option value="$PROJECT_DIR$/org.bndtools.versioncontrol.ignores.manager" />
+            <option value="$PROJECT_DIR$/org.bndtools.versioncontrol.ignores.plugin.git" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bnd-generate-maven-plugin" />
+        <module name="bnd-reporter-maven-plugin" />
+        <module name="bnd-resolver-maven-plugin" />
+        <module name="bnd-maven-plugin" />
+        <module name="bnd-run-maven-plugin" />
+        <module name="bnd-export-maven-plugin" />
+        <module name="bnd-testing-maven-plugin" />
+        <module name="bnd-indexer-maven-plugin" />
+        <module name="bnd-baseline-maven-plugin" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bnd-baseline-maven-plugin" options="-Xlint:unchecked" />
+      <module name="bnd-export-maven-plugin" options="-Xlint:unchecked" />
+      <module name="bnd-generate-maven-plugin" options="-Xlint:unchecked" />
+      <module name="bnd-indexer-maven-plugin" options="-Xlint:unchecked" />
+      <module name="bnd-maven-plugin" options="-Xlint:unchecked" />
+      <module name="bnd-plugin-parent" options="-Xlint:unchecked" />
+      <module name="bnd-reporter-maven-plugin" options="-Xlint:unchecked" />
+      <module name="bnd-resolver-maven-plugin" options="-Xlint:unchecked" />
+      <module name="bnd-run-maven-plugin" options="-Xlint:unchecked" />
+      <module name="bnd-testing-maven-plugin" options="-Xlint:unchecked" />
+    </option>
+  </component>
+</project>
